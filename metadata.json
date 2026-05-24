@@ -1,0 +1,6 @@
+{
+  "name": "AI Fitness Management System",
+  "description": "A premium AI-powered fitness management system for gym members, trainers, and administrators with workouts, diets, tracking, and interactive coaching.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
